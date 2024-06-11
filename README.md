@@ -8,3 +8,5 @@ There are some text here.
 ## Local Development
 
 1. Open index.html in your browser.
+
+2. Another update to check if changes are being made.
